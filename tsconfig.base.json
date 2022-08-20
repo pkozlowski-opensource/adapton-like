@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "ES2015",
+        "moduleResolution": "Node",
+        "strict": true,
+        "outDir": "dist",
+        "sourceMap": true
+    }
+}
